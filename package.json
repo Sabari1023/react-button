@@ -26,6 +26,6 @@
   "types": "dist/index.d.ts",
   "type": "module",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/Sabari1023"
+    "registry": "https://registry.npmjs.org/"
   }
 }
